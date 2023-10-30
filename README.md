@@ -12,7 +12,7 @@ The following Python packages are required,
 - $\tt tqdm$
 
 ### Running
-Import the ``simulate_cluster`` function from the other_functions.py file into your Python code and run
+Import the ``simulate_cluster`` function from the simulation_functions.py file into your Python code and run
 
   > cluster = simulate_cluster(N0=N0, rh0=rh0, Mgas0=Mgas0, mBH0=mBH0, MH0=MH0, tmax=tmax, dt=dt, tge=tge, seed=seed)
 
