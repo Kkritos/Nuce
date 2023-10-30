@@ -46,9 +46,9 @@ The output ``cluster`` above is a dictionary with the following keys:
 | 't_rh' | half-mass relaxation time (Myr) |
 | 'psi' | multimas relaxation factor |
 | 'S_BH_star' | Spitzer parameter |
-| 'R_HBH' | three-body binary formation rate (Myr$^{-1}$) |
-| 'R_TDE' | tidal disruption rate (Myr$^{-1}$) |
-| 'R_col' | stellar collision rate (Myr$^{-1}$) |
+| 'R_HBH' | three-body binary formation rate (Myr^-1) |
+| 'R_TDE' | tidal disruption rate (Myr^-1) |
+| 'R_col' | stellar collision rate (Myr^-1) |
 | 'v_esc' | escape velocity (km/s) |
 | 'a_ejs' | ejecter radius (pc) |
 | 'a_ejb' | self-ejecter radius (pc) |
